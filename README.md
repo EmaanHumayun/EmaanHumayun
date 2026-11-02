@@ -27,6 +27,7 @@ All codebases, practice labs, architecture case studies, and documentation roadm
 ```text
 EmaanHumayun/
 ├── engineering-portfolio             # Central architectural hub, domain matrix & roadmaps
+├── ai-agent-engineering-hub        # Central 20-project progressive AI agent & multi-agent ecosystem
 ├── automation-integration-hub       # Central 20-project progressive automation & integration ecosystem
 ├── backend-engineering-hub          # Central 20-project progressive backend architecture ecosystem
 ├── devops-engineering-bootcamp       # Comprehensive bootcamp curriculum, lecture notes & labs
@@ -94,6 +95,7 @@ EmaanHumayun/
 | :--- | :--- | :--- | :--- |
 | [**`devops-engineering-bootcamp`**](https://github.com/EmaanHumayun/devops-engineering-bootcamp) | DevOps Bootcamp Archive | Linux, CLI, Services, Scripting, Labs | `In Progress` |
 | [**`engineering-portfolio`**](https://github.com/EmaanHumayun/engineering-portfolio) | Central Engineering Hub | Architectural Maps, Domain Indexes | `Master Hub` |
+| [**`ai-agent-engineering-hub`**](https://github.com/EmaanHumayun/ai-agent-engineering-hub) | AI Agent & Agentic Systems | 20 Projects, LangGraph, Tools, Memory, RAG | `Master Hub` |
 | [**`automation-integration-hub`**](https://github.com/EmaanHumayun/automation-integration-hub) | Automation & Integration Ecosystem | 20 Projects, Webhooks, APIs, DevOps, AI | `Master Hub` |
 | [**`backend-engineering-hub`**](https://github.com/EmaanHumayun/backend-engineering-hub) | Backend Engineering Ecosystem | 20 Projects, Node.js, Express, Microservices | `Master Hub` |
 | [**`fullstack-applications`**](https://github.com/EmaanHumayun/fullstack-applications) | Full-Stack Applications Portfolio | React, Node.js, Express, Postgres, Docker | `Active Monorepo` |
