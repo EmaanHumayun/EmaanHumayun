@@ -27,6 +27,7 @@ All codebases, practice labs, architecture case studies, and documentation roadm
 ```text
 EmaanHumayun/
 ├── engineering-portfolio             # Central architectural hub, domain matrix & roadmaps
+├── backend-engineering-hub          # Central 20-project progressive backend architecture ecosystem
 ├── devops-engineering-bootcamp       # Comprehensive bootcamp curriculum, lecture notes & labs
 ├── devops-practice-labs              # Production DevOps labs (Linux, Docker, K8s, Helm, IaC, CI/CD)
 ├── devops-assignments-challenges     # Real-world scenario case studies & architectural submissions
@@ -92,6 +93,7 @@ EmaanHumayun/
 | :--- | :--- | :--- | :--- |
 | [**`devops-engineering-bootcamp`**](https://github.com/EmaanHumayun/devops-engineering-bootcamp) | DevOps Bootcamp Archive | Linux, CLI, Services, Scripting, Labs | `In Progress` |
 | [**`engineering-portfolio`**](https://github.com/EmaanHumayun/engineering-portfolio) | Central Engineering Hub | Architectural Maps, Domain Indexes | `Master Hub` |
+| [**`backend-engineering-hub`**](https://github.com/EmaanHumayun/backend-engineering-hub) | Backend Engineering Ecosystem | 20 Projects, Node.js, Express, Microservices | `Master Hub` |
 | [**`fullstack-applications`**](https://github.com/EmaanHumayun/fullstack-applications) | Full-Stack Applications Portfolio | React, Node.js, Express, Postgres, Docker | `Active Monorepo` |
 | [**`fullstack-cloud-native-app`**](https://github.com/EmaanHumayun/fullstack-cloud-native-app) | Full-Stack & Cloud-Native | React, Express, Docker, Kubernetes | `Production Architecture` |
 | [**`devops-practice-labs`**](https://github.com/EmaanHumayun/devops-practice-labs) | DevOps Practice Curriculum | Linux, Docker, K8s, Helm, IaC, CI/CD | `Active Labs` |
