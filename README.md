@@ -31,6 +31,7 @@ EmaanHumayun/
 ├── devops-practice-labs              # Production DevOps labs (Linux, Docker, K8s, Helm, IaC, CI/CD)
 ├── devops-assignments-challenges     # Real-world scenario case studies & architectural submissions
 ├── cloud-infrastructure-iac          # Modular Terraform / OpenTofu AWS cloud blueprints
+├── fullstack-applications            # Scalable monorepo of complete production web apps
 ├── fullstack-cloud-native-app        # End-to-end React + Express + Docker + K8s application
 ├── automation-engineering            # Shell & Python automation daemons, log rotators, API sync
 ├── data-analytics-portfolio          # SQL queries, cohort retention models & BI dashboards
@@ -91,6 +92,7 @@ EmaanHumayun/
 | :--- | :--- | :--- | :--- |
 | [**`devops-engineering-bootcamp`**](https://github.com/EmaanHumayun/devops-engineering-bootcamp) | DevOps Bootcamp Archive | Linux, CLI, Services, Scripting, Labs | `In Progress` |
 | [**`engineering-portfolio`**](https://github.com/EmaanHumayun/engineering-portfolio) | Central Engineering Hub | Architectural Maps, Domain Indexes | `Master Hub` |
+| [**`fullstack-applications`**](https://github.com/EmaanHumayun/fullstack-applications) | Full-Stack Applications Portfolio | React, Node.js, Express, Postgres, Docker | `Active Monorepo` |
 | [**`fullstack-cloud-native-app`**](https://github.com/EmaanHumayun/fullstack-cloud-native-app) | Full-Stack & Cloud-Native | React, Express, Docker, Kubernetes | `Production Architecture` |
 | [**`devops-practice-labs`**](https://github.com/EmaanHumayun/devops-practice-labs) | DevOps Practice Curriculum | Linux, Docker, K8s, Helm, IaC, CI/CD | `Active Labs` |
 | [**`cloud-infrastructure-iac`**](https://github.com/EmaanHumayun/cloud-infrastructure-iac) | Infrastructure as Code | Terraform, OpenTofu, AWS VPC & Security | `Modular Blueprints` |
