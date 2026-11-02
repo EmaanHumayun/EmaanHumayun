@@ -27,6 +27,7 @@ All codebases, practice labs, architecture case studies, and documentation roadm
 ```text
 EmaanHumayun/
 ├── engineering-portfolio             # Central architectural hub, domain matrix & roadmaps
+├── devops-engineering-bootcamp       # Comprehensive bootcamp curriculum, lecture notes & labs
 ├── devops-practice-labs              # Production DevOps labs (Linux, Docker, K8s, Helm, IaC, CI/CD)
 ├── devops-assignments-challenges     # Real-world scenario case studies & architectural submissions
 ├── cloud-infrastructure-iac          # Modular Terraform / OpenTofu AWS cloud blueprints
@@ -88,6 +89,7 @@ EmaanHumayun/
 
 | Repository | Engineering Discipline | Key Technologies | Status |
 | :--- | :--- | :--- | :--- |
+| [**`devops-engineering-bootcamp`**](https://github.com/EmaanHumayun/devops-engineering-bootcamp) | DevOps Bootcamp Archive | Linux, CLI, Services, Scripting, Labs | `In Progress` |
 | [**`engineering-portfolio`**](https://github.com/EmaanHumayun/engineering-portfolio) | Central Engineering Hub | Architectural Maps, Domain Indexes | `Master Hub` |
 | [**`fullstack-cloud-native-app`**](https://github.com/EmaanHumayun/fullstack-cloud-native-app) | Full-Stack & Cloud-Native | React, Express, Docker, Kubernetes | `Production Architecture` |
 | [**`devops-practice-labs`**](https://github.com/EmaanHumayun/devops-practice-labs) | DevOps Practice Curriculum | Linux, Docker, K8s, Helm, IaC, CI/CD | `Active Labs` |
