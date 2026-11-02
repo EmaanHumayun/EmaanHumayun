@@ -4,42 +4,133 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaanmuhammadhumayun)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emaanhumayun23072@gmail.com)
-[![Engineering Hub](https://img.shields.io/badge/Hub-engineering--portfolio-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/EmaanHumayun/engineering-portfolio)
+[![Central Hub](https://img.shields.io/badge/Hub-engineering--portfolio-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/EmaanHumayun/engineering-portfolio)
+[![Architecture: Modular](https://img.shields.io/badge/Architecture-Modular%20Ecosystem-059669?style=flat-square)](https://github.com/EmaanHumayun/engineering-portfolio)
 
 ---
 
-## Professional Profile
+## Pinned Flagship Repositories
 
-I am a Software Engineer and DevOps Engineer working across application development and modern infrastructure engineering. I build resilient backend systems and full-stack web applications while architecting the containerization, continuous integration, infrastructure as code, and operational deployment pipelines that support them.
+The primary architectural hubs and active flagship engineering tracks across my GitHub ecosystem:
 
-My engineering philosophy is rooted in first principles: mastering operating system fundamentals, networking, database transaction mechanics, and immutable infrastructure before layering high-level tooling.
-
-- **Software Engineering:** Backend architecture, deterministic REST APIs, asynchronous event processing, database modeling, and responsive web user interfaces.
-- **DevOps Engineering:** Linux system administration, Docker containerization, Kubernetes workload orchestration, Terraform infrastructure provisioning, and automated CI/CD release engineering.
-- **Automation & Integrations:** Background daemon scripting in Bash and Python, third-party webhook integrations, and automated operational pipelines.
+| Repository | Engineering Track | Key Capabilities & Architecture | Primary Tech Stack |
+| :--- | :--- | :--- | :--- |
+| [**`engineering-portfolio`**](https://github.com/EmaanHumayun/engineering-portfolio) | **Central Portfolio Hub** | Master architectural roadmap, domain matrices, cross-repository index, and engineering standards. | Architecture Docs, Markdown, Diagrams |
+| [**`devops-engineering-bootcamp`**](https://github.com/EmaanHumayun/devops-engineering-bootcamp) | **DevOps & Cloud Infrastructure Track** | 10-module production curriculum: Linux internals, networking, Docker, K8s, Terraform IaC, CI/CD, and Observability. | Linux, Docker, K8s, Terraform, AWS, CI/CD |
+| [**`backend-engineering-hub`**](https://github.com/EmaanHumayun/backend-engineering-hub) | **Backend Engineering Ecosystem** | 20 progressive backend projects: REST/GraphQL APIs, dual-tier caching, message queues, and microservices. | Node.js, Express, Postgres, Redis, RabbitMQ |
+| [**`automation-integration-hub`**](https://github.com/EmaanHumayun/automation-integration-hub) | **Automation & Integrations Ecosystem** | 20 progressive integration projects: webhooks, idempotency, CRM sync, DevOps pipelines, and AI orchestrators. | Python, TypeScript, Fastify, Docker, Webhooks |
+| [**`ai-agent-engineering-hub`**](https://github.com/EmaanHumayun/ai-agent-engineering-hub) | **AI Agent Engineering Ecosystem** | 20 progressive agentic systems: tool calling, persistent memory, hybrid RAG, multi-agent SDLC, and AIOps. | Python, Pydantic, LangGraph, pgvector, FastAPI |
+| [**`fullstack-applications`**](https://github.com/EmaanHumayun/fullstack-applications) | **Full-Stack Applications Portfolio** | Production application monorepo featuring Engineering Hub Pro (v2.0) and multi-tier web platforms. | React 18, Vite, Node.js, Express, MongoDB |
 
 ---
 
-## Engineering Ecosystem
+## About & Professional Identity
 
-All codebases, practice labs, architecture case studies, and documentation roadmaps are centrally cataloged in the **[Engineering Portfolio Hub](https://github.com/EmaanHumayun/engineering-portfolio)**.
+I am a Software Engineer and DevOps Engineer dedicated to building reliable application architectures, scalable backend services, and automated cloud infrastructure. My work emphasizes first principles: mastering operating system fundamentals, networking, database transaction mechanics, and immutable infrastructure before layering high-level abstractions.
 
-```text
-EmaanHumayun/
-├── engineering-portfolio             # Central architectural hub, domain matrix & roadmaps
-├── ai-agent-engineering-hub        # Central 20-project progressive AI agent & multi-agent ecosystem
-├── automation-integration-hub       # Central 20-project progressive automation & integration ecosystem
-├── backend-engineering-hub          # Central 20-project progressive backend architecture ecosystem
-├── devops-engineering-bootcamp       # Comprehensive bootcamp curriculum, lecture notes & labs
-├── devops-practice-labs              # Production DevOps labs (Linux, Docker, K8s, Helm, IaC, CI/CD)
-├── devops-assignments-challenges     # Real-world scenario case studies & architectural submissions
-├── cloud-infrastructure-iac          # Modular Terraform / OpenTofu AWS cloud blueprints
-├── fullstack-applications            # Scalable monorepo of complete production web apps
-├── fullstack-cloud-native-app        # End-to-end React + Express + Docker + K8s application
-├── automation-engineering            # Shell & Python automation daemons, log rotators, API sync
-├── data-analytics-portfolio          # SQL queries, cohort retention models & BI dashboards
-├── ai-automation-engineering         # Tool-calling agentic loops & LLM API integrations
-└── 50-javascript-projects            # 50 foundational JS DOM & async algorithm implementations
+My technical focus spans seven interconnected engineering disciplines:
+
+1. **Central Portfolio Hubs:** Maintaining a structured, documented, and transparent architecture portfolio that serves as an engineering roadmap and single source of truth.
+2. **DevOps & Cloud Infrastructure:** Architecting resilient container platforms, automating multi-AZ cloud networks with Terraform, packaging Kubernetes workloads, and constructing deterministic CI/CD release pipelines.
+3. **Backend Engineering (20 Projects):** Building production-ready backend architectures from fundamentals (REST, authentication, relational databases) to enterprise scale (event streaming, distributed caching, CQRS, and microservices).
+4. **Automation & Integration Engineering (20 Projects):** Engineering robust system-to-system integrations, deterministic webhook listeners, API synchronization daemons, and cloud automation workflows.
+5. **AI Agent Engineering & Agentic Systems (20 Projects):** Developing practical agentic architectures: schema-validated tool calling, dual-tier memory, hybrid retrieval (RAG), collaborative multi-agent collectives, and autonomous ops workflows.
+6. **Full-Stack Applications Portfolio:** Delivering end-to-end full-stack web applications with decoupled React/Vite frontends, Express/Node backends, role-based access control (RBAC), and containerized deployments.
+7. **Specialized Engineering Repositories:** Practical utility codebases for system administration scripting, relational data analytics, and targeted automation experiments.
+
+---
+
+## Complete Engineering Ecosystem (The 7 Pillars)
+
+### 1. Central Portfolio Hubs
+- [**`engineering-portfolio`**](https://github.com/EmaanHumayun/engineering-portfolio): Central architectural hub, domain matrix, system diagrams, and cross-repo navigation.
+- [**`EmaanHumayun`**](https://github.com/EmaanHumayun/EmaanHumayun): GitHub profile root, public identity, repository index, and technical competency overview.
+
+### 2. DevOps & Cloud Infrastructure Track
+- [**`devops-engineering-bootcamp`**](https://github.com/EmaanHumayun/devops-engineering-bootcamp): Structured 10-module curriculum covering Linux, Bash, networking, Git, Docker, Kubernetes, Terraform, AWS, and Prometheus.
+- [**`devops-practice-labs`**](https://github.com/EmaanHumayun/devops-practice-labs): Reproducible hands-on labs with executable scripts, manifests, and verification runbooks.
+- [**`cloud-infrastructure-iac`**](https://github.com/EmaanHumayun/cloud-infrastructure-iac): Modular Terraform and OpenTofu blueprints for multi-AZ AWS VPCs, EKS clusters, and remote S3/DynamoDB state locking.
+- [**`devops-assignments-challenges`**](https://github.com/EmaanHumayun/devops-assignments-challenges): In-depth architectural case studies (multi-AZ VPC design, canary deployments, DevSecOps supply chain security).
+
+### 3. Backend Engineering Ecosystem (20 Progressive Projects)
+- [**`backend-engineering-hub`**](https://github.com/EmaanHumayun/backend-engineering-hub): Central index, concept master index, roadmap, and architecture standards.
+- [**`backend-beginner-projects`**](https://github.com/EmaanHumayun/backend-beginner-projects): Projects 01-05 (HTTP Servers, CRUD APIs, Authentication & Authorization, Relational Databases, File Processing).
+- [**`backend-intermediate-projects`**](https://github.com/EmaanHumayun/backend-intermediate-projects): Projects 06-10 (Caching, Background Queues, Rate Limiting, Real-time WebSockets, Microservices Foundation).
+- [**`backend-advanced-projects`**](https://github.com/EmaanHumayun/backend-advanced-projects): Projects 11-15 (Event-Driven Architecture, Distributed Tracing, High-Concurrency Engines, GraphQL, Payment Gateway).
+- [**`backend-professional-projects`**](https://github.com/EmaanHumayun/backend-professional-projects): Projects 16-20 (CQRS & Event Sourcing, Multi-Tenant SaaS, Search Engine, Fault Tolerance, Production Microservices Mesh).
+
+### 4. Automation & Integration Engineering Ecosystem (20 Progressive Projects)
+- [**`automation-integration-hub`**](https://github.com/EmaanHumayun/automation-integration-hub): Master roadmap, integrations catalog, webhook standards, and security specifications.
+- [**`automation-beginner-projects`**](https://github.com/EmaanHumayun/automation-beginner-projects): Projects 01-05 (Automated Email Notifications, File Processing Pipelines, Scheduled Data Ingestion, Webhook Dispatcher, External API Sync).
+- [**`automation-intermediate-projects`**](https://github.com/EmaanHumayun/automation-intermediate-projects): Projects 06-10 (CRM Synchronization Engine, Automated Invoice Generator, Multi-Channel Alert Router, Git/GitHub Automation, Payment Reconciliation).
+- [**`automation-advanced-projects`**](https://github.com/EmaanHumayun/automation-advanced-projects): Projects 11-15 (ETL Pipeline Engine, Event-Driven Webhook Broker, CI/CD Pipeline Automation, Infrastructure Provisioning, Cross-Platform Data Sync).
+- [**`automation-professional-projects`**](https://github.com/EmaanHumayun/automation-professional-projects): Projects 16-20 (Incident Auto-Remediation, Enterprise Order Workflow, AI-Assisted Document Pipeline, Multi-Cloud Backup, Workflow Engine).
+
+### 5. AI Agent Engineering & Agentic Systems (20 Progressive Projects)
+- [**`ai-agent-engineering-hub`**](https://github.com/EmaanHumayun/ai-agent-engineering-hub): Central curriculum, agent architecture guide, concept mastery index, and technology stack.
+- [**`ai-agents-beginner-projects`**](https://github.com/EmaanHumayun/ai-agents-beginner-projects): Projects 01-05 (Personal Assistant, Structured Data Extractor, Research Summary Agent, SQLite Task Agent, Document QA RAG Agent).
+- [**`ai-agents-intermediate-projects`**](https://github.com/EmaanHumayun/ai-agents-intermediate-projects): Projects 06-10 (Persistent Memory Agent, Email/Calendar Action Agent, Code Assistant, Hybrid Search RAG, API Integration Agent).
+- [**`ai-agents-advanced-projects`**](https://github.com/EmaanHumayun/ai-agents-advanced-projects): Projects 11-15 (Autonomous Planning Agent, Multi-Agent Research System, SDLC Collective, AI Data Analyst, Agent Evaluation Platform).
+- [**`ai-agents-professional-projects`**](https://github.com/EmaanHumayun/ai-agents-professional-projects): Projects 16-20 (DevOps AIOps Agent, Customer Support Platform, Business Ops Platform, Autonomous SWE Platform, Enterprise Agent Gateway).
+
+### 6. Full-Stack Applications Portfolio
+- [**`fullstack-applications`**](https://github.com/EmaanHumayun/fullstack-applications): Production monorepo hosting multi-tier applications including Engineering Hub Pro (v2.0) and Task Management Platform.
+- [**`fullstack-cloud-native-app`**](https://github.com/EmaanHumayun/fullstack-cloud-native-app): Decoupled React 18 + Node.js/Express platform with Docker containerization and declarative Kubernetes manifests.
+- [**`50-javascript-projects`**](https://github.com/EmaanHumayun/50-javascript-projects): 50 foundational web applications demonstrating native DOM manipulation, asynchronous algorithms, and client-side state.
+
+### 7. Specialized Engineering Repositories
+- [**`automation-engineering`**](https://github.com/EmaanHumayun/automation-engineering): Operational Bash daemons, system health monitors, log rotation engines, and Python sync utilities.
+- [**`data-analytics-portfolio`**](https://github.com/EmaanHumayun/data-analytics-portfolio): Complex SQL queries, cohort retention analyses, database schemas, and data modeling artifacts.
+- [**`ai-automation-engineering`**](https://github.com/EmaanHumayun/ai-automation-engineering): Experimental agent loops, JSON-schema tool calling scripts, and prompt engineering utilities.
+
+---
+
+## Universal Daily Git Workflow
+
+To maintain a disciplined, professional, and audit-ready portfolio, all work across all repositories follows this deterministic execution protocol:
+
+### Step 1: Navigate to Workspace & Select Project
+```bash
+# Select repository and target project directory
+cd d:/my\ personal-workspace/github-ecosystem/backend-beginner-projects/02-restful-api-task-manager
+```
+
+### Step 2: Create a Feature Branch
+```bash
+git checkout -b feat/project-02-implementation
+```
+
+### Step 3: Implement Code & Unit Tests
+- Develop clean, typed source files inside `src/`.
+- Write deterministic automated test assertions inside `tests/`.
+- Ensure all dependencies are recorded in `package.json` or `requirements.txt`.
+
+### Step 4: Verify Tests & Zero-Leak Security
+```bash
+# Run automated tests
+npm test
+# or: pytest tests/
+
+# Verify that no .env or sensitive credentials exist in git status
+git status
+```
+
+### Step 5: Update Documentation & Progress Tracking
+- Complete the project `README.md` (Overview, Architecture, API Endpoints, Reproduction Steps).
+- Update the progress indicator in the repository's root `PROGRESS.md` or `README.md`.
+
+### Step 6: Atomic Conventional Commit
+```bash
+git add src/ tests/ README.md
+git commit -m "feat(p02): implement REST task manager endpoints with JWT auth and test suite"
+```
+
+### Step 7: Push & Merge to Main
+```bash
+git checkout main
+git merge feat/project-02-implementation
+git push origin main
+git branch -d feat/project-02-implementation
 ```
 
 ---
@@ -62,10 +153,10 @@ EmaanHumayun/
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-- **Backend & REST APIs:** Express.js routing, middleware pipelines, JWT stateless authentication, bcrypt password hashing, Role-Based Access Control (RBAC), connection pooling.
-- **Frontend & Full-Stack:** React 18, Vite, component state architecture, client-side routing, Axios / Fetch API integration, responsive interface design.
-- **Containerization & Workflows:** Multi-stage Docker builds, layer caching optimization, multi-container Docker Compose networks, Git branching strategies.
-- **Operating Systems & Scripting:** Ubuntu/Debian Linux administration, process monitoring, systemd services, cron job automation, automated backup and log rotation scripts.
+- **Backend & REST APIs:** Express.js routing, middleware chains, JWT stateless authentication, bcrypt password hashing, Role-Based Access Control (RBAC), and connection pooling.
+- **Frontend & Full-Stack:** React 18, Vite, modular component hierarchies, client-side routing, Axios / Fetch API integration, and responsive design systems.
+- **Containerization & Workflows:** Multi-stage Docker builds, layer caching optimization, multi-container Docker Compose networks, and conventional Git branching.
+- **Operating Systems & Scripting:** Ubuntu/Debian administration, systemd service management, automated backup daemons, and cron automation.
 
 ### Developing & Lab-Verified Practices
 
@@ -76,35 +167,10 @@ EmaanHumayun/
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-- **Container Orchestration:** Declarative Kubernetes manifests (Deployments, ClusterIP/NodePort Services, ConfigMaps, Secrets, Liveness/Readiness probes), Helm chart packaging and parameterization.
-- **Infrastructure as Code (IaC):** Modular Terraform and OpenTofu definitions for AWS multi-AZ VPCs, public/private subnets, internet gateways, and security groups.
-- **Cloud Infrastructure & Networking:** AWS network architecture, CIDR subnetting, egress NAT Gateways, TCP/IP, DNS troubleshooting, socket reachability diagnostics.
-- **Observability & SRE:** Prometheus metrics exposition (`/metrics` endpoints), scraping configurations, threshold-based alerting rules.
-
-### Automation & Systems Integration
-
-- **Operational Automation:** Python scripts with exponential backoff retries, JSON schema transformations, server health monitoring daemons.
-- **Webhooks & APIs:** Event-driven HTTP webhook listeners, signature verification, REST data synchronization.
-- **Emerging & AI Workflows:** First-principles tool-calling agent loops, schema-constrained prompt engineering, LLM API consumption.
-
----
-
-## Featured Repositories
-
-| Repository | Engineering Discipline | Key Technologies | Status |
-| :--- | :--- | :--- | :--- |
-| [**`devops-engineering-bootcamp`**](https://github.com/EmaanHumayun/devops-engineering-bootcamp) | DevOps Bootcamp Archive | Linux, CLI, Services, Scripting, Labs | `In Progress` |
-| [**`engineering-portfolio`**](https://github.com/EmaanHumayun/engineering-portfolio) | Central Engineering Hub | Architectural Maps, Domain Indexes | `Master Hub` |
-| [**`ai-agent-engineering-hub`**](https://github.com/EmaanHumayun/ai-agent-engineering-hub) | AI Agent & Agentic Systems | 20 Projects, LangGraph, Tools, Memory, RAG | `Master Hub` |
-| [**`automation-integration-hub`**](https://github.com/EmaanHumayun/automation-integration-hub) | Automation & Integration Ecosystem | 20 Projects, Webhooks, APIs, DevOps, AI | `Master Hub` |
-| [**`backend-engineering-hub`**](https://github.com/EmaanHumayun/backend-engineering-hub) | Backend Engineering Ecosystem | 20 Projects, Node.js, Express, Microservices | `Master Hub` |
-| [**`fullstack-applications`**](https://github.com/EmaanHumayun/fullstack-applications) | Full-Stack Applications Portfolio | React, Node.js, Express, Postgres, Docker | `Active Monorepo` |
-| [**`fullstack-cloud-native-app`**](https://github.com/EmaanHumayun/fullstack-cloud-native-app) | Full-Stack & Cloud-Native | React, Express, Docker, Kubernetes | `Production Architecture` |
-| [**`devops-practice-labs`**](https://github.com/EmaanHumayun/devops-practice-labs) | DevOps Practice Curriculum | Linux, Docker, K8s, Helm, IaC, CI/CD | `Active Labs` |
-| [**`cloud-infrastructure-iac`**](https://github.com/EmaanHumayun/cloud-infrastructure-iac) | Infrastructure as Code | Terraform, OpenTofu, AWS VPC & Security | `Modular Blueprints` |
-| [**`devops-assignments-challenges`**](https://github.com/EmaanHumayun/devops-assignments-challenges) | Systems Architecture & Design | Multi-AZ VPC, Canary Deployments, DevSecOps | `Case Studies` |
-| [**`automation-engineering`**](https://github.com/EmaanHumayun/automation-engineering) | Automation & Integrations | Bash Daemons, Python Sync, Cron | `Active Scripts` |
-| [**`50-javascript-projects`**](https://github.com/EmaanHumayun/50-javascript-projects) | Frontend & Algorithm Basics | Vanilla JavaScript, DOM API, Async JS | `Completed Portfolio` |
+- **Container Orchestration:** Declarative Kubernetes manifests (Deployments, Services, ConfigMaps, Secrets, Probes), and Helm packaging.
+- **Infrastructure as Code (IaC):** Modular Terraform and OpenTofu definitions for multi-AZ AWS VPCs, subnets, internet gateways, and security groups.
+- **Cloud Infrastructure & Networking:** AWS network architecture, CIDR subnetting, egress NAT Gateways, TCP/IP, and DNS diagnostics.
+- **Observability & SRE:** Prometheus metrics exposition (/metrics endpoints), scraping configurations, and threshold alerting rules.
 
 ---
 
@@ -113,4 +179,4 @@ EmaanHumayun/
 - **Email:** [emaanhumayun23072@gmail.com](mailto:emaanhumayun23072@gmail.com)
 - **LinkedIn:** [linkedin.com/in/emaanmuhammadhumayun](https://www.linkedin.com/in/emaanmuhammadhumayun)
 - **GitHub:** [@EmaanHumayun](https://github.com/EmaanHumayun)
-- **Engineering Hub:** [Engineering Portfolio](https://github.com/EmaanHumayun/engineering-portfolio)
+- **Central Portfolio Hub:** [engineering-portfolio](https://github.com/EmaanHumayun/engineering-portfolio)
